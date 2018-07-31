@@ -1,0 +1,19 @@
+step 1: Install XAMPP server on your System
+       
+
+step 2:open the server,start Apche and mySql servers.
+
+Step 3: Extract the project file and put the project file in
+c:/xampp/htdocs/
+
+step 4: In the project folder [movies.sql] is present. open localhost/phpmyadmin in the browser and create a database with name movies,
+and import the tables.
+
+step 5: in the folder there is file called [serverconnect.php], open that file and enter your localhost username and password.
+
+that all set to run the application.
+
+thank you..
+
+
+
